@@ -1,1 +1,5 @@
-ECHO is on.
+#incluse <iostream>
+
+int main() {
+	std::cout << "Hello";
+}
